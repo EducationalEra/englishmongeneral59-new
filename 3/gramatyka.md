@@ -18,26 +18,21 @@
 <p>&nbsp;</p>
 </td>
 <td width="444">
-<p>just, ever for time</p>
-<p>a lot, a little for degree of intensity</p>
+<p>frequency</p>
+<p>manner</p>
+<p>time</p>
+<p>degree</p>
+<p>too/enough+adverbs of manner</p>
 </td>
 </tr>
 <tr>
 <td width="217">
-<p>Conjunction</p>
+<p>Clause</p>
 </td>
 <td width="444">
-<p>so and then for results and consequences</p>
-</td>
-</tr>
-<tr>
-<td width="217">
-<p>Determiner</p>
-<p>&nbsp;</p>
-</td>
-<td width="444">
-<p>enough and too for sufficiency and insufficiency</p>
-<p>a little, much for quantities with mass (uncountable) nouns</p>
+<p>let/make smb do smth</p>
+<p>comparisons with as...as, so...as</p>
+<p>сlauses with so, not (I think so. I hope not)</p>
 </td>
 </tr>
 <tr>
@@ -45,8 +40,7 @@
 <p>Modality</p>
 </td>
 <td width="444">
-<p>must/mustn&rsquo;t, need/needn&rsquo;t for (absence of) obligation</p>
-<p>should/shouldn&rsquo;t for advice or suggestions</p>
+<p>must/mustn&rsquo;t, have to/don&rsquo;t have to, need/needn&rsquo;t, should/shouldn&rsquo;t, be allowed to</p>
 </td>
 </tr>
 <tr>
@@ -62,8 +56,8 @@
 <p>Preposition</p>
 </td>
 <td width="444">
-<p>prepositions in time phrases</p>
-<p>(before, after, for, since)</p>
+<p>with</p>
+<p>by +agent</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +65,9 @@
 <p>Pronoun</p>
 </td>
 <td width="444">
-<p>reflexive pronouns for emphasis (myself, ourselves, etc.)</p>
+<p>reflexive pronouns as object/complement (myself, ourselves, etc.)</p>
+<p>indefinite and negative</p>
+<p>pronouns some/any/no</p>
 </td>
 </tr>
 <tr>
@@ -79,8 +75,8 @@
 <p>Verb</p>
 </td>
 <td width="444">
-<p>Past Perfect (general)</p>
-<p>question tags</p>
+<p>Past Perfect</p>
+<p>Active and Passive of previously learnt verb forms</p>
 </td>
 </tr>
 </tbody>

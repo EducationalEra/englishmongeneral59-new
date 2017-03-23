@@ -14,10 +14,12 @@
 </tr>
 <tr>
 <td width="217">
-<p>Adverb</p>
+<p>Adverb and determiner</p>
+<p>&nbsp;</p>
 </td>
 <td width="444">
 <p>manner (slowly, well, etc.)</p>
+<p>basic quantifiers (a lot, a little, very, too, rather, etc)</p>
 <p>comparisons</p>
 </td>
 </tr>
@@ -26,7 +28,7 @@
 <p>Сonjunction</p>
 </td>
 <td width="444">
-<p>basic connectors (but, because)</p>
+<p>results and consequences (so, then)</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +36,7 @@
 <p>Determiner</p>
 </td>
 <td width="444">
-<p>zero quantifier with plural countable nouns and uncountable nouns</p>
+<p>definite article for uniqueness, public buildings, geographical names, other proper names</p>
 </td>
 </tr>
 <tr>
@@ -42,9 +44,7 @@
 <p>Modality</p>
 </td>
 <td width="444">
-<p>have to for present and near future obligation</p>
-<p>had to for past obligation</p>
-<p>may, must, саn/could, would/wouldn&rsquo;t (like) for intention and desire</p>
+<p>may, must, саn/could, have to/had to, would/wouldn&rsquo;t (like)</p>
 </td>
 </tr>
 <tr>
@@ -68,8 +68,7 @@
 <p>Preposition</p>
 </td>
 <td width="444">
-<p>&lsquo;of&rsquo; for a part or aspect</p>
-<p>&lsquo;with/without&rsquo; for (lack of) possession and attribution</p>
+<p>time (till/until)</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +84,7 @@
 <p>Verb</p>
 </td>
 <td width="444">
-<p>revision in context</p>
+<p>question tags</p>
 </td>
 </tr>
 </tbody>

@@ -16,7 +16,7 @@
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="113">
+<td width="113">
 <p>Особистісна</p>
 </td>
 <td width="208">
@@ -28,17 +28,17 @@
 </td>
 <td rowspan="3" width="340">
 <ul>
-<li>описувати, розповідати, характеризувати</li>
-<li>порівнювати</li>
-<li>аргументувати свій вибір</li>
-<li>запитувати та надавати інформацію</li>
-<li>розпитувати з метою роз&rsquo;яснення та уточнення інформації</li>
-<li>пропонувати, приймати, відхиляти пропозицію</li>
+<li style="text-align: left;">описувати, розповідати, характеризувати</li>
+<li style="text-align: left;">порівнювати</li>
+<li style="text-align: left;">аргументувати свій вибір</li>
+<li style="text-align: left;">запитувати та надавати інформацію</li>
+<li style="text-align: left;">розпитувати з метою роз&rsquo;яснення та уточнення інформації</li>
+<li style="text-align: left;">пропонувати, приймати, відхиляти пропозицію</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="113">
+<td width="113">
 <p>Публічна</p>
 </td>
 <td width="208">
@@ -49,7 +49,7 @@
 </tr>
 <tr>
 <td width="113">
-<p style="text-align: center;">Освітня</p>
+<p>Освітня</p>
 </td>
 <td width="208">
 <p>Шкільне життя</p>

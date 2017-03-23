@@ -23,11 +23,21 @@
 </tr>
 <tr>
 <td width="217">
+<p>Adverb</p>
+</td>
+<td width="444">
+<p>adverbs&nbsp; as modifiers</p>
+</td>
+</tr>
+<tr>
+<td width="217">
 <p>Clause</p>
 </td>
 <td width="444">
-<p>pro-clause with so, not (I think so. I hope not.)</p>
-<p>when for linking two clauses</p>
+<p>reported speech</p>
+<p>reported wh-questions with ask/tell/know</p>
+<p>adverbial clause with when</p>
+<p>conditional I</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +45,7 @@
 <p>Modality</p>
 </td>
 <td width="444">
-<p>will, might, shall, should, let&rsquo;s, could for various purposes</p>
+<p>may, might, ought to</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +62,7 @@
 <p>Verb</p>
 </td>
 <td width="444">
-<p>active and passive of previously learnt verb forms</p>
+<p>sequence&nbsp; of tenses</p>
 </td>
 </tr>
 </tbody>

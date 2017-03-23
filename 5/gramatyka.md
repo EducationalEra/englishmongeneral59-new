@@ -14,13 +14,30 @@
 </tr>
 <tr>
 <td width="217">
+<p>Adverb</p>
+</td>
+<td width="444">
+<p>neither ... nor, either &hellip; or</p>
+</td>
+</tr>
+<tr>
+<td width="217">
 <p>Clause</p>
 </td>
 <td width="444">
-<p>who, which, that in relative clause;</p>
-<p>to/in order to + verb</p>
-<p>if + Present Simple</p>
-<p>conditional I</p>
+<p>conditionals I, II&nbsp;</p>
+<p>If I were you &hellip;</p>
+<p>I wish, if only, had better, would rather</p>
+<p>relative clause with whose/who/which/that</p>
+<p>Do you mind if&hellip;?, I don&rsquo;t mind if&hellip;</p>
+</td>
+</tr>
+<tr>
+<td width="217">
+<p>Conjunction</p>
+</td>
+<td width="444">
+<p>if, when, as soon as, till, until, etc.+ present simple with future reference</p>
 </td>
 </tr>
 <tr>

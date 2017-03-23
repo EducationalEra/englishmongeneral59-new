@@ -14,38 +14,30 @@
 </tr>
 <tr>
 <td width="217">
+<p>Adjective</p>
+</td>
+<td width="444">
+<p>comparative and superlative forms of regular and irregular adjectives</p>
+</td>
+</tr>
+<tr>
+<td width="217">
 <p>Adverb</p>
 </td>
 <td width="444">
-<p>time markers for past, present and future (yesterday, tomorrow, today, now)</p>
-<p>Present Perfect + yet/already</p>
+<p>frequency&nbsp;</p>
+<p>place (here/there)</p>
+<p>chronological sequence (first, next, etc.)</p>
+<p>time for the past, present and future (now, today, yesterday, tomorrow, already, yet)</p>
 </td>
 </tr>
 <tr>
 <td width="217">
-<p>Clause</p>
+<p>Сonjunction</p>
 </td>
 <td width="444">
-<p>wh-questions</p>
-<p>yes/no questions</p>
-</td>
-</tr>
-<tr>
-<td width="217">
-<p>Determiner</p>
-</td>
-<td width="444">
-<p>these and those as determiners relating to people or objects</p>
-<p>basic quantifiers: some, any, no, a lot of/lots of, much, many</p>
-<p>(with countable and uncountable nouns)</p>
-</td>
-</tr>
-<tr>
-<td width="217">
-<p>Interrogatives</p>
-</td>
-<td width="444">
-<p>Interrogative pronouns/adjectivеs &nbsp;(who, whose, what, which, where, when)</p>
+<p>but as a basic connector</p>
+<p>because for causes and reasons</p>
 </td>
 </tr>
 <tr>
@@ -53,18 +45,7 @@
 <p>Modality</p>
 </td>
 <td width="444">
-<p>should/shouldn&rsquo;t for advice or suggestions</p>
-<p>mustn&rsquo;t for prohibition</p>
-<p>may I/we..? for formal and polite requests and permission</p>
-</td>
-</tr>
-<tr>
-<td width="217">
-<p>Noun</p>
-</td>
-<td width="444">
-<p>regular nouns - plural</p>
-<p>possession</p>
+<p>can, could, have to, had to</p>
 </td>
 </tr>
 <tr>
@@ -72,15 +53,21 @@
 <p>Preposition</p>
 </td>
 <td width="444">
-<p>basic prepositions of time (in, on, at, from... to..., by, during)</p>
+<p>movement (into, out of)</p>
+<p>place (inside, outside, next to, etc.)</p>
+<p>time (in, on, at, for, since, from &hellip; to, during, by)</p>
+<p>possession and attribution (of, with, without)</p>
 </td>
 </tr>
 <tr>
 <td width="217">
-<p>Pronoun</p>
+<p>Pronoun and Determiner</p>
 </td>
 <td width="444">
-<p>object pronouns (me, him, her) as indirect objects</p>
+<p>object personal pronouns</p>
+<p>interrogative pronouns&nbsp; who, whose</p>
+<p>how much/how many (with uncountable/countable nouns</p>
+<p>some, any, no, a lot (of) with uncountable/countable nouns</p>
 </td>
 </tr>
 <tr>
@@ -88,9 +75,9 @@
 <p>Verb</p>
 </td>
 <td width="444">
-<p>Present Perfect with present reference</p>
-<p>Present Perfect for personal experiences in the past</p>
-<p>Future with be going to</p>
+<p>There is/There are + uncountable/countable nouns</p>
+<p>Present Perfect</p>
+<p>Past Continuous</p>
 </td>
 </tr>
 </tbody>

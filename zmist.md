@@ -11,9 +11,9 @@
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="home"><h3><a href="https://frenchmonnormal.ed-era.com/1/5_klas.html">ЗАГАЛЬНООСВІТНІ НЗ</a></h3>
+    <div role="tabpanel" class="tab-pane active" id="home"><h3>ЗАГАЛЬНООСВІТНІ НЗ</h3>
       <ul>
-        <li><a href="rezultaty2.md">Очікувані результати навчально-пізнавальної діяльності учнів на кінець 9-го класу</a></li>
+        <li><a href="rezultaty2.md">Очікувані результати навчально-пізнавальної діяльності учнів на кінець 9-го класу</a>           </li>
         <li><a href="ocinuvannya2.md">Орієнтовні параметри оцінювання</a></li>
         <li><a href="21/english.md">Англійська мова</a></li>
         <li><a href="21/5_klas.md">5 клас</a>
@@ -141,9 +141,9 @@
         </ul>
       </li>
     </div>
-    <div role="tabpanel" class="tab-pane" id="menu1"><h3><a href="https://frenchmonnormal.ed-era.com/2/6_klas.html">СПЕЦІАЛІЗОВАНІ НЗ</a></h3>
+    <div role="tabpanel" class="tab-pane" id="menu1"><h3>СПЕЦІАЛІЗОВАНІ НЗ</h3>
       <ul>
-        <li><a href="rezultaty1.md">Очікувані результати навчально-пізнавальної діяльності учнів на кінець 9-го класу</a></li>
+        <li><a href="rezultaty1.md">Очікувані результати навчально-пізнавальної діяльності учнів на кінець 9-го класу</a>           </li>
         <li><a href="ocinuvannya1.md">Орієнтовні параметри оцінювання</a></li>
         <li><a href="1/english.md">Англійська мова</a></li>
         <li><a href="1/5_klas.md">5 клас</a>
@@ -279,7 +279,7 @@
           </ul></li>
         </ul>
     </div>
-    <div role="tabpanel" class="tab-pane" id="menu2"><h3><a href="https://frenchmonnormal.ed-era.com/3/7_klas.html">ІНОЗЕМНА МОВА ЯК ДРУГА</a></h3>
+    <div role="tabpanel" class="tab-pane" id="menu2"><h3>ІНОЗЕМНА МОВА ЯК ДРУГА</h3>
       <ul>
           <li><a href="rezultaty3.md">Очікувані результати навчально-пізнавальної діяльності учнів на кінець 9-го класу</a></li>
           <li><a href="ocinuvannya3.md">Орієнтовні параметри оцінювання</a></li>
